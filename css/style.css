@@ -1,7 +1,8 @@
 @import url("https://fonts.googleapis.com/css2?family=Nunito&display=swap");
 @import url("https://fonts.googleapis.com/css?family=Sacramento&display=swap");
 hr {
-  border: 1px solid #EDEEC9 !important; }
+  border: 1px solid #EDEEC9 !important;
+  background-color: #EDEEC9 !important; }
 
 .card {
   border-radius: 20px;
